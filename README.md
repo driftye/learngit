@@ -1,4 +1,3 @@
 # learngit
 Creating a new branch is quick.
-
-Third test
+Fourth test
